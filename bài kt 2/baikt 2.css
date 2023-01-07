@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    max-width: fit-content;
+    text-align: center;
+    height: 300px;
+    border: 5px;
+}
+.label{
+    text-align: left;
+}
+.button{
+    background-color: aqua;
+}

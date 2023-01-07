@@ -1,0 +1,21 @@
+.red{ 
+    background: red;
+    border: 3px solid orange;
+    border-radius: 50%;
+    outline: 3px solid blue;
+}
+.blue{
+    background:rgb(150, 223, 14);
+    border: 5px solid orange;
+}
+.black{
+    background: black;
+}
+.green{
+    background: green;
+}
+.box{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}

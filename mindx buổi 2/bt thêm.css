@@ -1,0 +1,31 @@
+.line1{
+   color: blue;
+   outline: 20px;
+   border: 2px solid black;
+      }
+.line2{
+    color: red;
+    font-size: 30px;
+    outline: 20px;
+    border: 2px solid black;
+      }
+.line3{
+    color:black ;
+    border: 2px solid cyan;
+      }
+.line4{
+    color: red;
+    font-size: 30px;
+    border: 2px solid black;
+      }
+.line5{
+    color: red;
+    font-size: 30px;
+    outline: 20px;
+    border: 2px solid black;
+      }
+.box{
+    width: 50px;
+    height: 100px;
+    display: inline;
+    }

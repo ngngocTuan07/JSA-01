@@ -1,0 +1,11 @@
+.click{
+  border: 2px solid ;
+  text-align: center;
+  width: 100px;
+}
+.container{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    width: 300px;
+}

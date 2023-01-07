@@ -1,0 +1,36 @@
+.container{
+   position: fixed;
+   display: flex;
+   flex-direction:row ;
+   justify-content: center;
+   width: 100%;
+   top: 0%;
+  
+
+}
+.trangchu{padding: 100px;
+    padding-top: 0px;
+    border: 2px solid black
+    
+}
+.trang1{padding: 100px;
+    padding-top: 0px;
+    border: 2px solid black
+  
+}
+.trang2{padding: 100px;
+    padding-top: 0px;
+    border: 2px solid black
+    
+
+}
+.pa{
+    margin-top: 100px;
+    margin-right: 50px;
+    height: 3000px;
+    width: 100%;
+}
+.head{
+    margin-top: 225px;
+    text-align: center;
+}

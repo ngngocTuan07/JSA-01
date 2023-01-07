@@ -1,0 +1,66 @@
+.img{
+    width:  1304px;
+    height: 584px;
+    margin-top: 50px;
+    object-fit: cover;
+}
+.welcome{
+    flex-direction: row;
+  text-align: center;
+}
+.p{display: flex;
+    font-size: large;
+    flex-direction: row;
+    margin-right: 56px;
+}
+
+.conatact{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    border: 2px solid grey;
+    background-color: grey;
+}
+.pro{
+    
+    background-color: beige;
+    border: 5px solid white;
+    justify-content: center;
+    display: flex
+    
+    
+}
+.pic1{
+    width: 300px; 
+    margin: 0px 16px;
+    border: 2px solid black;
+   
+}
+.container1{
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    margin-left: 50px;
+}
+.pic2{
+    width: 300px;
+    border: 2px solid black;
+}
+.container2{ 
+    display: flex;
+    justify-content: right;
+    background-color: white;
+    margin-right: 50px;
+}
+
+
+.hinh{
+    display: flex;
+    text-align: center;
+   margin-left: 110px;
+    width: 400px;
+    height: 400px;
+}
+.tt{
+    text-align: center;
+}

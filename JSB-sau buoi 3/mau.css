@@ -1,0 +1,39 @@
+h1{
+    color: green;
+    width: 382.16px;
+}
+.box1{
+    height: 126px;
+}
+.van{
+    width: 378px;
+}
+.row{
+    border: 1px solid black;
+    width: 408px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 420px;
+    justify-content: center;
+}
+.title{
+    color: rgb(96, 151, 235);
+}
+.van2{
+    width: 378px;
+}
+.row2{
+    border: 1px solid black;
+    width: 408px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 420px;
+    justify-content: center;
+}
+.title2{
+    color: rgb(96, 151, 235)}
+.inline{ 
+display: inline-block;
+}

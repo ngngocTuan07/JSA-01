@@ -1,0 +1,9 @@
+.topmenu{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 16px;
+    font-size: 24px;
+    box-sizing: border-box;
+}
