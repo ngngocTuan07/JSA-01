@@ -1,0 +1,47 @@
+
+.container{
+    min-height: 800px;
+    margin-left: 80px;
+    border: 2px;
+    background-image: url("./resource/hero.jpg");
+    background-size: 100%   ;
+}
+
+.nav{
+    display:flex;
+}
+
+.menu{
+    justify-content: end;
+    width: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+li {
+    float: left;
+    width: 25%;
+    justify-content: end;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+}
+
+.pic2{
+    padding: 10px;
+    padding-left: 25%;
+}
