@@ -1,0 +1,38 @@
+.flex-conatiner{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    padding-bottom: 100px;
+}
+.flex-item {
+    flex: 1 1 20%;
+}
+.flex-item {
+    display: flex;
+    flex-flow: column wrap-reverse;
+    justify-content: right;
+}
+.left-element{
+    display: inline;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 625px;
+    
+}
+.right-element {
+    color: black;
+    display: inline;
+    width: 50%;
+}
+.cap{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: white;
+}
+.iphone{
+   margin-left: 100px;
+   display: inline;
+}

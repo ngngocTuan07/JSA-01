@@ -1,0 +1,13 @@
+.cap{
+    display: flex;
+    justify-content: right;
+    margin-right: 100px;
+}
+.left-element{
+   
+}
+.right-element{
+    display: block;
+    justify-content: right;
+}
+
